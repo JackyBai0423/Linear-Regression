@@ -1,5 +1,0 @@
-﻿References
-Hill, K. (2020, June 24). Wrongfully accused by an algorithm. The New York Times. https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html.
-Ai pricing: How much does artificial intelligence cost? WebFX. (n.d.). Retrieved September 21, 2021, from https://www.webfx.com/internet-marketing/ai-pricing.html.
-Dilmegani, C. (2021, August 9). Bias in AI: What it is, types &amp; examples of bias &amp; tools to fix it. AIMultiple. Retrieved from https://research.aimultiple.com/ai-bias/.
-
